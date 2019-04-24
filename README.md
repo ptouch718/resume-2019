@@ -1,7 +1,7 @@
 # Powell May 
 ## Technology Director + Full-Stack Engineer
 
-Phone: **********
+Phone: **********  
 Email: <powell.may@gmail.com>   
 GitHub: [github.com/ptouch718](https://github.com/ptouch718)
 
